@@ -1,0 +1,1 @@
+{"name":"hkeducan-frontend","version":"0.1.0","scripts":{"dev":"next dev -p 3001","build":"next build","start":"next start -p 3001"},"dependencies":{"next":"13.0.0","react":"18.0.0","react-dom":"18.0.0","axios":"^1.0.0","swr":"^2.0.0"}}
